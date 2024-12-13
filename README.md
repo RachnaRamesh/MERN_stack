@@ -12,7 +12,6 @@ This project leverages the power of React.js for an engaging frontend, Node.js a
 - [⚙️ Installation](#️-installation)
 - [🚀 Usage](#-usage)
 - [📊 Project Workflow](#-project-workflow)
-- [🤝 Contributors](#-contributors)
 - [📜 License](#-license)
 - [🛡️ Future Enhancements](#-future-enhancements)
 
@@ -75,11 +74,6 @@ This project is a gym management system designed to provide:
    - Implemented MongoDB to store and manage user data, membership details, and gym operations efficiently.
 4. **Testing and Deployment**:
    - Tested the application for functionality and scalability, then deployed for production-ready usage.
-
----
-
-## 🤝 **Contributors**
-- [Your Name](https://github.com/yourusername)
 
 ---
 
